@@ -1,0 +1,15 @@
+{
+    "name": "Background Alea",
+    "description": "affiche une image de fond aléatoire pour la page de connexion",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Rémi Suinot"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
